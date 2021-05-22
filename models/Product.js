@@ -15,6 +15,13 @@ Product.init(
       primaryKey: true,
       autoIncrement: true
     },
+    product_name: {
+      type: DataTypes.STRING,
+      allowNull: false,
+      validate: {
+        len: [1]
+      }
+    },
     price: {
       type: DataTypes.INTEGER,
       allowNull: false,
