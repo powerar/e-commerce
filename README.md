@@ -17,3 +17,4 @@ A RESTful API that contains product data and full CRUD access to add, update, de
 * MySql2
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/78888642/119266471-fabd0400-bbb8-11eb-87da-1bcdbb850e81.png)
